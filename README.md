@@ -27,3 +27,12 @@
 </div>
 
 ### :woman_technologist: About Me :
+I like the crypto industry:heart_eyes: 
+developing something new, 
+putting nodes in developing projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.  I'm from Ukraine
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/ViMa84507099)
