@@ -22,4 +22,8 @@
   </a>
 </div>
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/lNFsl1EKPoWuFpXauL/giphy.gif" width="700"/>
+</div>
+
 ### :woman_technologist: About Me :
