@@ -17,7 +17,7 @@
   <a href="https://linktr.ee/vidi777">
     <img src="https://img.shields.io/badge/linktr-brightgreen?style=for-the-badge&logo=linktr&logoColor=white" width="113.5" alt="Linktr Badge"/>
   </a>
-  <a href="https://twitter.com/ViMa84507099">
+  <a href="https://twitter.com/DiVi58713078">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" width="160" alt="Twitter Badge"/>
   </a>
 </div>
