@@ -35,7 +35,7 @@ putting nodes in developing projects <img src="https://media.giphy.com/media/WUl
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/-ViDi-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/ViMa84507099)
+- :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/-ViDi-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/DiVi58713078)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
