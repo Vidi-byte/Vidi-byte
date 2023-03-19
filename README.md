@@ -1,4 +1,4 @@
-### Hello, my name is Dima, you can meet me under the nickname ViDi in projects on nodes and testnets 👋
+### Hello, my name is Dima, you can meet me under the nickname ViDi in projects on nodes and testnets 👋👋👋
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" width="350"/>
